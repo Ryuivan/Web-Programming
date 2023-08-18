@@ -1,0 +1,16 @@
+{
+    "name": "ryuiv/03_composer",
+    "autoload": {
+        "psr-4": {
+            "HelloWorld\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ryuivan",
+            "email": "ryu.ivan@student.umn.ac.id"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
